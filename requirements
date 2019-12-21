@@ -1,5 +1,5 @@
+Python 3.7.4
 flask
 pandas
 gunicorn
 xgboost
-python
